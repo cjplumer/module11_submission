@@ -4,7 +4,7 @@
 
 This project aims to analyze and predict the key driving factors behind used car prices. Using a regression model trained on a dataset of used cars, the goal is to provide insights that can help used car dealers optimize their inventory and pricing strategies.
 
-The Jupyter workbook that was used to come to the above findings is available in this GitHub repository here: [module_11_assignment_workbook.ipynb]([https://github.com/cjplumer/module05_submission/blob/fd3d0febff8ded7a002d9ad0ae8b611a1bc7a681/module_5_assignment_workbook.ipynb](https://github.com/cjplumer/module11_submission/blob/9a8e409a346d004dfbcddae2c0dcc995510ec9d2/prompt_II_working.ipynb))
+The Jupyter workbook that was used to come to the above findings is available in this GitHub repository here: [module_11_assignment_workbook.ipynb](https://github.com/cjplumer/module11_submission/blob/9a8e409a346d004dfbcddae2c0dcc995510ec9d2/prompt_II_working.ipynb)
 
 ## Dataset
 
