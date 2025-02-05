@@ -1,7 +1,4 @@
-# module11_submission
-Submission repository for module 11 assignment
-
-# Used Car Price Prediction: Regression Analysis
+# Module 11 Practical Application 2 - Used Car Price Prediction: Regression Analysis
 
 ## Overview
 
@@ -46,10 +43,4 @@ For used car dealers, these insights can be used to:
 * Optimize Pricing: Adjust prices based on key influencing factors.
 * Improve Inventory Selection: Stock vehicles that retain value better.
 * Targeted Marketing: Identify high-demand vehicle types for better promotion.
-
-## Future Enhancements
-
-* Include Additional Features: Owner history, accident reports, and service records.
-* Enhance Model Performance: Test advanced ML models like Gradient Boosting or Neural Networks.
-* Deploy a Web Application: Allow dealers to input vehicle details and receive price predictions instantly.
 
